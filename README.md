@@ -49,6 +49,4 @@ This project aims to develop an intelligent system for **early detection of oral
 ### 🔧 Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Oral-Cancer-Detection-DeepLearning-IoT.git
-   cd Oral-Cancer-Detection-DeepLearning-IoT
+   
